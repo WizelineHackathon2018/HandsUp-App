@@ -1,0 +1,14 @@
+// @import '~bulma/bulma';
+
+.c-pointer {
+  cursor: pointer;
+}
+
+.p-disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
